@@ -1,0 +1,21 @@
+
+h1, p {
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  color:white;
+  text-align:center
+}
+img{
+    width: 100%;
+    border: 5px solid white;
+}
+div{
+    margin-top: 100px;
+    width: 50%;
+    margin-left: 25%;
+}
+body{
+    background-color: black;
+}
